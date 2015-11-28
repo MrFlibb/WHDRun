@@ -1,12 +1,11 @@
 WHDRun - WHDLoad Runner for GameBase/MAGE Amiga
 (c)2007 Markus Thiele / MAGE Project
+(c)2015 Mr. Flibbertygibbit
 
 WHDRun is free software under the GNU General Public License,
 Version 2, which is quoted below in its entirety.
 
-Source code is available by request in accordance with Section 3,
-Subsection b of the GNU General Public License, Version 2. Please
-contact Markus Thiele (omega@elowar.com).
+Source code is available at https://github.com/MrFlibb/WHDRun
 
 ===8<==================================================================
 
