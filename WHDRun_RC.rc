@@ -1,0 +1,27 @@
+#define WHDRun 1
+LANGUAGE 9,1
+WHDRun ICON DISCARDABLE "WHDRun.ico"
+WHDRun VERSIONINFO
+FILEVERSION 1,0,5,0
+PRODUCTVERSION 1,0,5,0
+FILEOS 0x00000004
+FILETYPE 0x00000001
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "FFFF0000"
+    BEGIN
+      VALUE "FileVersion", "1.0.5.0\0"
+      VALUE "ProductVersion", "1.0.5.0\0"
+      VALUE "CompanyName", "GameBase/MAGE Amiga\0"
+      VALUE "FileDescription", "WHDLoad game runner for GameBase/MAGE Amiga\0"
+      VALUE "LegalCopyright", "(c)2007 Markus Thiele/MAGE Project\0"
+      VALUE "OriginalFilename", "WHDRun.exe\0"
+      VALUE "ProductName", "WHDRun\0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0xFFFF, 0x0000
+  END
+END

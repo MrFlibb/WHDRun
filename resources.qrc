@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>img/logo.png</file>
+	<file>img/vlogo.png</file>
+	<file>img/icon.png</file>
+	<file>img/trayicon.png</file>
+	
+	<file>img/icon/about.png</file>
+	<file>img/icon/hide.png</file>
+	<file>img/icon/show.png</file>
+	<file>img/icon/quit.png</file>
+	<file>img/icon/copy.png</file>
+	<file>img/icon/kill.png</file>
+	<file>img/icon/config.png</file>
+	
+	<file>txt/names.txt</file>
+
+	<file>img/keyboard/keyus.png</file>
+	<file>img/keyboard/keyde.png</file>
+	<file>img/keyboard/keyfr.png</file>
+	<file>img/keyboard/keyraw.png</file>
+	<file>img/keyboard/codes.png</file>
+	
+	<file>img/keyboard/usflag.png</file>
+	<file>img/keyboard/deflag.png</file>
+	<file>img/keyboard/frflag.png</file>
+	<file>img/keyboard/rawflag.png</file>
+	
+	<file>img/events/stageEvent.png</file>
+	<file>img/events/errorEvent.png</file>
+	<file>img/events/infoEvent.png</file>
+	<file>img/events/killEvent.png</file>
+	<file>img/events/errorFinish.png</file>
+	<file>img/events/normalFinish.png</file>
+</qresource>
+</RCC>
